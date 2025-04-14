@@ -2,6 +2,8 @@
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kanishkgoyall.github.io/NewsApp",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
